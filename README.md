@@ -1,0 +1,2 @@
+# blogs
+Data for blogs
